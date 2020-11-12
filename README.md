@@ -3,9 +3,12 @@
 This project works through Sections of the book "Test-Driven Development By Example - Kent Beck" in Python
 to build intuition of the concepts.
 
-## 1_Money.py
+## Money
 
-Module explores section 1 of the book.
+Explores section 1 of the book with money example.
+
+* Module: money.py
+* Test module: Testing/test_money.py
 
 ### Aims
 
